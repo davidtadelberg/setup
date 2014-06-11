@@ -27,3 +27,8 @@ sudo apt-get install -y nodejs
 sudo npm install -g jshint
 npm install express
 npm install logger
+sudo apt-get update
+sudo apt-get install -y yum
+sudo apt-get update
+sudo apt-get install lynx-cur
+sudo apt-get install yum-utils
