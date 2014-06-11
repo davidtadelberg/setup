@@ -32,3 +32,6 @@ sudo apt-get install -y yum
 sudo apt-get update
 sudo apt-get install lynx-cur
 sudo apt-get install yum-utils
+sudo tasksel install lamp-server
+sudo apt-get install pip
+sudo pip install django
